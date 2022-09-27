@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game_Loto.unity
+    guid: 9541a8706415a2e4a957fb0af30124b1
+  - enabled: 1
+    path: Assets/Scenes/Game_Cube.unity
+    guid: ea5b6d4b6c6c9644392dee99e0535c51
+  - enabled: 1
+    path: Assets/Scenes/Game_Memory.unity
+    guid: 4ebb30d0e9fe6184f856e83f3f207cdc
+  m_configObjects: {}
